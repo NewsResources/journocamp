@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Envie d'organiser un journocamp ?
 
-You can use the [editor on GitHub](https://github.com/NewsResources/journocamp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Les journocamp sont un format d'événement organisé par et pour les journalistes. Alors que nous sommes face à une double crise - économique et de confiance - nous avons intérêt à bosser ensemble.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Qu'allez-vous trouver ici ?
 
-### Markdown
+- une suite de fichiers qui vous permettent de partir avec un "kit de l'organisateur"
+- un manifeste des "journocamp" afin de voir si votre idée d'événement colle avec celle qui motive ce mouvement (en gros, l'idée de travailler à plusieurs sans trop se poser de questions de concurrence, etc.)
+- des contacts de personnes ayant déjà participer à l'organisation d'un journocamp.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Les éditions précédentes dans le monde francophone
 
-# Header 1
-## Header 2
-### Header 3
+Plusieurs événements dans le monde utilisent le hashtag #journocamp, mais dans le monde francophone ils sont pour le moment relativement réduits
+- **octobre 2017** un journocamp initié par le Lab Centre France, soutenu par le Google News Lab, qui s'attaque à la problématique "data+local"
+- **mai 2016** un journocamp particulier car réduit à quelques heures, mais avec une diversité de profils particulièrement intéressante (et un peu trop de monde...) [le #4Mcamp organisé avec CFI](http://www.cfi.fr/fr/actualites/retour-sur-4mparis)
+- **avril 2014** le premier, organisé par et pour la communauté des journalistes qui tâtent un peu des outils modernes : [journocamp Paris 4 avril 2014](https://newsresources.github.io/journocamp_1st/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NewsResources/journocamp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Cédric Motte - 06 98 34 34 22 - [@chouing](https://twitter.com/chouing)
