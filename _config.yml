@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
 layouts_dir:  _layouts
+google_analytics: UA-106956546-1
